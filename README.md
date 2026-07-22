@@ -10,7 +10,7 @@ Java 문법과 문제 풀이 능력 및 자료구조 활용 능력을 기르기 
 - 블로그 : [문제풀이 및 학습기록](https://jijbab-bodmbodm-1356.tistory.com/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
 
 <details>
-<summary>문제 목록 펼쳐보기(40)</summary>
+<summary>문제 목록 펼쳐보기(42)</summary>
 
 - 두 수의 합 구하기
 - 두 수의 차 구하기
@@ -61,5 +61,8 @@ Java 문법과 문제 풀이 능력 및 자료구조 활용 능력을 기르기 
 - 2차원으로 만들기 
 - 공 던지기
 - 배열 회전시키기
+
+- 주사위의 개수 
+- 합성수 찾기 
 
 </details>
